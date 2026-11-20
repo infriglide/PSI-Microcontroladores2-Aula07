@@ -12,15 +12,9 @@ O sistema deve controlar semáforos de dois tipos: pedestres e carros, incluindo
 - Deve ser utilizado o microcontrolador de um integrante.
 
 ### 2. Semáforo de Veículos
-- Contém três LEDs: verde, amarelo e vermelho.
-- Comportamento:
   - Verde acende por 3 segundos.
   - Amarelo acende por 1 segundo.
   - Vermelho acende por 4 segundos.
-
-
-
-
 
 https://github.com/user-attachments/assets/463ec156-9f25-4c58-bccc-08619e798169
 
