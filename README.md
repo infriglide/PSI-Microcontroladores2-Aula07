@@ -1,4 +1,9 @@
 
+Exercicio 1 Ingrid:
+
+
+https://github.com/user-attachments/assets/53ee10ee-fe1e-40d2-8530-30777de94e5e
+
 
 Exercicio 2 Ingrid:
 
