@@ -20,7 +20,12 @@ O sistema deve controlar semáforos de dois tipos: pedestres e carros, incluindo
 
 
 
-https://github.com/user-attachments/assets/f175b1ac-639c-494a-b568-91ed8a396656
+
+
+https://github.com/user-attachments/assets/463ec156-9f25-4c58-bccc-08619e798169
+
+
+
 
 
 
