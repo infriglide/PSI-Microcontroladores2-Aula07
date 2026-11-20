@@ -1,14 +1,4 @@
-# PSI-Microcontroladores2-Aula07
-Atividade: Semáforos de Pedestres e Veículos
 
-## Objetivo
-Desenvolver um sistema embarcado de controle de semáforos para pedestres e veículos, utilizando **threads** e **mutex**, e validar o funcionamento do código por meio de **testes utilizando o modelo V (testes unitários, de integração e de sistema)**.  
-Opcionalmente, alunos podem utilizar **IA generativa** para auxiliar na elaboração de trechos de código ou na geração de planos de teste, mas **a avaliação deve se concentrar na qualidade dos testes e na correta validação do sistema**.
-
-## Trabalho em Dupla
-- A atividade deve ser realizada **em duplas**.
-- Cada membro deve contribuir ativamente no desenvolvimento.
-- **Commits no repositório Git** devem ser feitos de forma individual, permitindo a avaliação das contribuições de cada aluno.
 
 ## Descrição do Sistema
 O sistema deve controlar semáforos de dois tipos: pedestres e carros, incluindo **modo noturno** e **botão de travessia de pedestres**.
@@ -27,9 +17,18 @@ O sistema deve controlar semáforos de dois tipos: pedestres e carros, incluindo
   - Verde acende por 3 segundos.
   - Amarelo acende por 1 segundo.
   - Vermelho acende por 4 segundos.
-- Controle deve ser feito por **três threads independentes**, garantindo exclusão mútua (**mutex**) entre os LEDs.
-- Deve ser validado que há **sincronismo** entre o semáforo de pedestres e o semáforo de veículos.
-- Deve ser utilizado o microcontrolador do outro integrante.
+
+
+
+https://github.com/user-attachments/assets/f175b1ac-639c-494a-b568-91ed8a396656
+
+
+
+
+
+
+
+
 
 ### 3. Modo Noturno
 - Um modo alternativo em que os semáforos piscam:
